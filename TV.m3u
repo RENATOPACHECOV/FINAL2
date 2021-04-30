@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1,EXITOSA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF:-1,ATV
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5ODkyNTQzLCJzZXNzaW9uIjoiMTc5LjYuMTk2LjEwIiwid2hpdGVsaXN0IjpbIjI4MDA6MjAwOmUyOTA6NWIyYjoxMWVjOjUwNTM6YTQ5MTo4ZGMzIl19LCJzaWduYXR1cmUiOiJlM2I3NzdiYzNjNDE5OWFkNjBhZWFjNzkwZjJiMDA4ODJjMWU2ZmQwIn0%3D
+
+#EXTINF:-1,ATV +
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5ODkyNTkyLCJzZXNzaW9uIjoiMTc5LjYuMTk2LjEwIiwid2hpdGVsaXN0IjpbIjI4MDA6MjAwOmUyOTA6NWIyYjoxMWVjOjUwNTM6YTQ5MTo4ZGMzIl19LCJzaWduYXR1cmUiOiJiZWY5OTk4OTA0ODk5NzgzMTI1MzU3NTJiZjljMzMwNjc4YThjMmQ2In0%3D
