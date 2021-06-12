@@ -1,26 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,WILLAX
-https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmNJhZqXyk_NfeX7sYyFt3g)/dm/3/x7x4dgx/s/live-1.m3u8
-
-#EXTINF:-1,EXITOSA
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-
-#EXTINF:-1,TV PERÚ
-https://cdnh71.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1,TV PERÚ Noticias
-https://cdnh71.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1,ESPN
-https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/f.m3u8
-
-#EXTINF:-1,ESPN 2
-https://e10.cdnfoxtv.me/ingestnb4s/espn2_sur/c.m3u8
-
-#EXTINF:-1,ESPN 3
-https://e10.cdnfoxtv.me/ingestnb4s/espn3_sur/f.m3u8
-
-#EXTINF:-1,BEIN SPORTS
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2756000,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720
-https://playback2.akamaized.net/streams/27856896_8563077_lsieqytyqm4g8ffjh7x_1/exp=1619990217~acl=%2f*~data=hdntl~hmac=d85e515829acba12596208a26003d9029b9aae6e18a577f326ca970c722cf550/media/27856896_8563077_lsieqytyqm4g8ffjh7x_1@2756000pb.m3u8
+#EXTINF:-1,CUATRO
+http://dimapro.cz:8080/00:1A:79:16:FA:EB/ziajdjjfdifjd64646/38383
+#EXTINF:-1,CUATRO HD
+http://dimapro.cz:8080/00:1A:79:16:FA:EB/ziajdjjfdifjd64646/38384
+#EXTINF:-1,TELECINCO
+http://dimapro.cz:8080/00:1A:79:16:FA:EB/ziajdjjfdifjd64646/38385
+#EXTINF:-1,TELECINCO HD
+http://dimapro.cz:8080/00:1A:79:16:FA:EB/ziajdjjfdifjd64646/38386
